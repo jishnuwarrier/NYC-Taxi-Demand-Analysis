@@ -13,6 +13,8 @@ Because the analysis involves aggregating 19 million records, it requires signif
 * **Storage:** You need about 3GB of free space for the dataset downloads.
 * **Python:** Version 3.10 or newer.
 
+* Total execution time is approximately 20minutes on Colab
+
 ## Installation and Setup
 You do not need to install libraries manually. The notebook includes an initialization script that checks your environment and installs the required packages (like pyspark, meteostat, and folium) when you run the first few cells.
 
